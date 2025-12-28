@@ -4,11 +4,6 @@ A front-end **Amazon Clone** built using **HTML, CSS, and JavaScript**, replicat
 
 ---
 
-## 🚀 Live Demo
-
-👉 
-
----
 
 ## 📁 Project Structure
 
