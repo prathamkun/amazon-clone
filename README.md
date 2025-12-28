@@ -3,8 +3,13 @@
 A front-end **Amazon Clone** built using **HTML, CSS, and JavaScript**, replicating core UI and basic functionality of an e-commerce website. This project focuses on layout, navigation, and user flow similar to Amazon.
 
 ---
+## Preview
+<img width="2912" height="1667" alt="image" src="https://github.com/user-attachments/assets/96c2d12a-4a72-449b-b780-da8af945dc15" />
+<img width="2909" height="1661" alt="image" src="https://github.com/user-attachments/assets/83c1b242-0a41-40fb-bcf5-cd85bae871ec" />
+<img width="2909" height="1661" alt="image" src="https://github.com/user-attachments/assets/b7fe842a-f026-4220-8210-d8b6a0d1bcf4" />
+<img width="2940" height="1660" alt="image" src="https://github.com/user-attachments/assets/d799b9af-ae2a-479b-8f61-08f5b85b6bb5" />
 
-
+---
 ## 📁 Project Structure
 
 ```
